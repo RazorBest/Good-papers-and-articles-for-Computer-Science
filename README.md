@@ -12,3 +12,4 @@ A list of links to interesting articles, papers or resources from Computer Scien
 - [Backtrace your linux packages](https://unix.stackexchange.com/questions/149805/how-to-find-the-packages-that-depend-on-a-certain-package-in-apt)
 - [A self-study course in block-cipher cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
 - [A modern cryptanalysis course by Ling Song](https://github.com/hadipourh/course-cryptanalysis)
+- [MOV attack on Elliptic Curves](https://risencrypto.github.io/WeilMOV/)
