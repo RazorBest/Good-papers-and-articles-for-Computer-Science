@@ -13,3 +13,4 @@ A list of links to interesting articles, papers or resources from Computer Scien
 - [A self-study course in block-cipher cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf)
 - [A modern cryptanalysis course by Ling Song](https://github.com/hadipourh/course-cryptanalysis)
 - [MOV attack on Elliptic Curves](https://risencrypto.github.io/WeilMOV/)
+- [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
