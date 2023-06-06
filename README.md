@@ -14,3 +14,4 @@ A list of links to interesting articles, papers or resources from Computer Scien
 - [A modern cryptanalysis course by Ling Song](https://github.com/hadipourh/course-cryptanalysis)
 - [MOV attack on Elliptic Curves](https://risencrypto.github.io/WeilMOV/)
 - [Inside the 8086 processor's instruction prefetch circuitry](https://www.righto.com/2023/01/inside-8086-processors-instruction.html)
+- [Recovering cryptographic keys from partial information, by example](https://eprint.iacr.org/2020/1506.pdf) - this paper explains very well the applications of Coppersmith and lattices.
